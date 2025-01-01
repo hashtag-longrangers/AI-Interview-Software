@@ -138,7 +138,6 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
  	<tr>
  		<td align="center">
  			<a href="https://github.com/hashtag-longrangers">
- 				<img src="https://avatars.githubusercontent.com/u/18515597?s=400&u=4ecfe979f461f79e86a9c7a26183c1327da5d2bc&v=4" width="100px" alt="" />
  				<br /> <sub><b>Arnav Rangari</b></sub>
  			</a>
  				<br /> <a href="https://github.com/hashtag-longrangers">
