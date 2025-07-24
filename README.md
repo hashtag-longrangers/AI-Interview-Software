@@ -99,13 +99,13 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
 - Second build the image, Run `docker-compose build`
 - Then start/run the container, run `docker-compose up`
 ---
-## Improve Model Accuracy : [AI-Interview-ML](https://github.com/aryasoni98/AI-Interview-ML)
+## About Model Accuracy : [AI-Interview_Algorithm](https://github.com/aryasoni98/AI-Interview-ML](https://github.com/hashtag-longrangers/AI-Interview_Algorithm.git)
 ---
 ## Figma UI Design : [AI-Interview](https://www.figma.com/file/l6u5emxKaNnX4EYDYhPley/AI-Interview?node-id=0%3A1)
 ---
 ## How to Contribute to AI Interview System?
 
-- Take a look at the Existing [Issues](https://github.com/aryasoni98/AI-Interview/issues) or create your own Issues!
+- Take a look at the Existing [Issues](https://github.com/hashtag-longrangers/AI-Interview-Software/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you.
 - Fork the repository
 - Have a look at [Contibuting Guidelines](https://github.com/hashtag-longrangers/AI-Interview-Software/blob/master/CONTRIBUTING.md)
