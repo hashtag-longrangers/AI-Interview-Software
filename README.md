@@ -4,6 +4,7 @@
 
 <h1 align="center">AI Interview System</h1>
 
+<!--
 <p align="center">
   <img src="https://img.shields.io/github/issues/aryasoni98/AI-Interview" title="logo">
   <img src="https://img.shields.io/github/issues-pr/aryasoni98/AI-Interview" title="logo">
@@ -11,6 +12,7 @@
   <img src="https://img.shields.io/github/stars/aryasoni98/AI-Interview" title="logo">
   <img src="https://img.shields.io/github/license/aryasoni98/AI-Interview" title="logo">
 </p>
+-->
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/check-it-out.svg" title="logo">
@@ -52,7 +54,7 @@ Our aim is to develop a model able to provide a live sentiment analysis with a v
 
 ---
 
-### Video Analysis - [Read More . . .](https://github.com/aryasoni98/AI-Interview/wiki/Video-Analysis)
+### Video Analysis - [Read More . . .](https://github.com/hashtag-longrangers/AI-Interview-Software/wiki/Video-Analysis)
 <br>
 <p>
     <img src="./Images/Video.png" width="600" height="300"/>
@@ -60,15 +62,11 @@ Our aim is to develop a model able to provide a live sentiment analysis with a v
 
 ---
 
-### Audio Analysis - [Read More . . . ](https://github.com/aryasoni98/AI-Interview/wiki/Audio-Analysis)
+### Audio Analysis - [Read More . . . ](https://github.com/hashtag-longrangers/AI-Interview-Software/wiki/Audio-Analysis)
 <br>
 <p>
     <img src="./Images/Audio.png" width="600" height="300"/>
 </p>
-
----
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/aryasoni98/AI-Interview)
 
 ---
 
@@ -110,18 +108,18 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
 - Take a look at the Existing [Issues](https://github.com/aryasoni98/AI-Interview/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you.
 - Fork the repository
-- Have a look at [Contibuting Guidelines](https://github.com/aryasoni98/AI-Interview/blob/master/CONTRIBUTING.md)
+- Have a look at [Contibuting Guidelines](https://github.com/hashtag-longrangers/AI-Interview-Software/blob/master/CONTRIBUTING.md)
 
 ---
 
 <table>
  	<tr>
  		<td align="center">
- 			<a href="https://github.com/aryasoni98">
+ 			<a href="https://github.com/hashtag-longrangers">
  				<img src="https://img.icons8.com/nolan/64/github.png" width="64px" alt="" />
  			</a>
  				<br />
-			 <a href="https://github.com/aryasoni98/AI-Interview/discussions">
+			 <a href="https://github.com/hashtag-longrangers/AI-Interview-Software/discussions">
  		   		Github Discussions
  	    	</a>
  		</td>
@@ -140,13 +138,13 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
  			<a href="https://github.com/hashtag-longrangers">
  				<br /> <sub><b>Arnav Rangari</b></sub>
  			</a>
- 				<br /> <a href="https://github.com/hashtag-longrangers">
+ 				<br />
+			<a href="https://github.com/hashtag-longrangers">
  		   			Admin
  	   		 </a>
  		</td>
+	</tr>
 		
-        </td>
- 	</tr>
 </table>
 
 ---
