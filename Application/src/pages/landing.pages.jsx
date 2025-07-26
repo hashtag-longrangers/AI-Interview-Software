@@ -15,7 +15,7 @@ const Landing = ()=>{
                     <h1 className=" display-1 " style={{fontWeight:"bolder", marginBottom:"60px"}} >AI Interview Test</h1>
                    
 
-                    <p className="fs-4 "style={{marginBottom:"60px"}} >Test  &  Develope  Your  Interview   Skills</p>
+                    <p className="fs-4 "style={{marginBottom:"60px"}} >Test  &  Develop  Your  Interview   Skills</p>
 
                     <Link to="/video">
                     <button type="button" class="btn btn-outline-dark py-2">Get Started</button>
