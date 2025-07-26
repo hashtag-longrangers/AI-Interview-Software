@@ -15,8 +15,7 @@ const Video= ()=>{
                         <h1 className="display-2  font-link "style={{fontWeight:"bolder", marginBottom:"60px"}}>video interview.</h1>
                        
                         <div className="fs-4 mb-16" style={{width:"60%"}}>
-                            <p>Use the video interview simulator  and get a feedback on how our 
-                                algorithm interprets your facial emotions compared to other candidates.
+                            <p>Use the video interview simulator and get feedback on how our algorithm interprets your facial emotions compared to other candidates.
                             </p>
                             <br />
                             <p className="" style={{fontWeight:"lighter"}}>
